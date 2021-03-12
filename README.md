@@ -1,2 +1,4 @@
 # UrbanEnvironmentalJustice
-Facilitating the comparative data analysis between two natural disasters exacerbated by human responses: 1995 Chicago Heat Wave &amp; 2020/2021 COVID-19 Pandemic
+This is a project for Dr. Sabina Shaikh at the University of Chicago. 
+
+These two data sources catalogue the disparities in deaths by neighborhoods in Chicago, IL, due to the human-driven mismanagement of: the 1995 Chicago Heat Wave and the 2020/2021 COVID-19 pandemic. The purpose of hosting these two data sets on this repository is to implore further comparitive analyses on how the mishandling of disaster responses resulted in an uneven distribution of deaths which disproportionately affected vulnerable socioeconomic neighborhoods. From the vantage point of 2020, it seems as if history has, unfortunately, repeated itself. It is therefore important to understand where learnings on neighborhood disparities fell short, in order to combat preventable deaths borne out of extreme natural events.
